@@ -1,4 +1,6 @@
 # Crypto Curious
+# Demo
+https://crypto-curious.vercel.app/
 
 # Introduction
 Crypto Curious ultimate destination for delving into the dynamic realm of cryptocurrencies. As digital currencies continue to revolutionize financial landscapes worldwide, staying informed and empowered is key. At Crypto Curious provide you with comprehensive insights, real-time data, and intuitive tools to navigate the complexities of the crypto market with confidence.
@@ -20,3 +22,8 @@ Don’t miss out on the hottest coins. Our trending section highlights the crypt
 
 
 ## Demo
+<img width="949" alt="1" src="https://github.com/user-attachments/assets/52debe3a-a88c-4d0f-b8fb-62a7217cc592">
+<img width="862" alt="2" src="https://github.com/user-attachments/assets/0abd6be5-5abe-441c-9472-2e4f4cf7ddc1">
+<img width="906" alt="3" src="https://github.com/user-attachments/assets/1631b56b-728a-4f95-ad0d-df1d1dc36cec">
+
+
